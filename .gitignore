@@ -4,3 +4,12 @@ package*.json
 DS_Store
 
 test.txt
+static
+assets
+build
+config
+
+*/.*
+*/README.md
+
+
